@@ -11,3 +11,7 @@
     npm install -g serve                    --> Install Serve
     npm run build                           --> Create a production build
     npx serve -s build                      --> Serve the build directory
+
+### Netlify
+    npm install -g netlify-cli              --> Install Netlify CLI
+    netlify deploy                          --> Deploy to Netlify

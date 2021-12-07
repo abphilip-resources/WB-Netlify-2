@@ -14,4 +14,5 @@
 
 ### Netlify
     npm install -g netlify-cli              --> Install Netlify CLI
-    netlify deploy                          --> Deploy to Netlify
+    npx netlify deploy                      --> Deploy to Netlify with development build
+    npx netlify deploy --prod               --> Deploy to Netlify with production build

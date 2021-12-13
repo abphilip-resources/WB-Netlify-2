@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  margin-top: 20vh
+  margin-top: 25vh
 }
 
 .App-logo {
@@ -12,13 +12,13 @@
 header {
   background-color: #00000A;
   min-height: 20vh;
-  display: absolute;
+  display: flex;
+  position: absolute;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  position: fixed;
-  top: 0;
+  top: 0px;
   width: 100%;
   -webkit-box-shadow: 0 2px 6px #41bce2;
   -moz-box-shadow: 0 6px 6px #41bde2;

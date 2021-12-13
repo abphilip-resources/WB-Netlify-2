@@ -1,41 +1,11 @@
 {
-  "short_name": "ArtVideos",
+  "short_name": "Videos App",
   "name": "Art Videos for Fun and Learning",
   "icons": [
     {
-      "src": "icon-120.png",
-      "sizes": "120x120",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-152.png",
-      "sizes": "152x152",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-167.png",
-      "sizes": "167x167",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-180.png",
-      "sizes": "180x180",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "index.webp",
+      "sizes": "1050x1050",
+      "type": "image/webp"
     },
     {
       "src": "favicon.ico",
@@ -45,6 +15,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#00000A",
+  "background_color": "#FFFFFF"
 }

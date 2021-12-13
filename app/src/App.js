@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Art Video</h1>
+        <h1>Videos App</h1>
       </header>
-      <h2>The first video</h2>
+      <h2>0. Offline Video</h2>
       <div>
         <video src={video} controls height={200} />
       </div>
